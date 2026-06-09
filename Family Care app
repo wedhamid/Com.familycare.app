@@ -1,0 +1,29 @@
+# Family Care
+
+Family Care is an Android application designed to help users manage and access family-related information and services.
+
+## Features
+
+- Offline functionality
+- Local data storage
+- IndexedDB support
+- Notifications
+- User-friendly interface
+
+## Download
+
+The latest APK will be available in the Releases section of this repository.
+
+## Installation
+
+1. Download the APK.
+2. Enable installation from unknown sources if required.
+3. Install the APK on your Android device.
+
+## Developer
+
+Mohamedidris
+
+## Repository
+
+https://github.com/wedhamid/Com.familycare.app
